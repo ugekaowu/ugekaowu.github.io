@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ugekaowu.github.io/DgH/sitemap_index.txt
+Sitemap: https://ugekaowu.github.io/NcP/sitemap_index.txt
+Sitemap: https://ugekaowu.github.io/mOD/sitemap_index.txt
+Sitemap: https://ugekaowu.github.io/sLi/sitemap_index.txt
